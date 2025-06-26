@@ -66,3 +66,6 @@ Team: **StaNLink DevOps🤓**<br>
 Powered by: @whiskeysockets/baileys + Telegraf
 
 > **🔥 LinkX is the DevOps version of a SaaS bot factory. We're not just building bots — we're building infrastructure.**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devops@stanlinktech.33mail.com)
+
