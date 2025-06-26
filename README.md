@@ -30,7 +30,7 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 -Bot deploys user's LinkX bot<br>
 ###<a href="https://example.com" target="_blank" style="display:block;width:100%;text-align:center;padding:10px;background-color:#4CAF50;color:#fff;text-decoration:none;border-radius:5px;">
   Deploy Your LinkX Bot Now
-</a>###
+</a>
 
 ---
 
