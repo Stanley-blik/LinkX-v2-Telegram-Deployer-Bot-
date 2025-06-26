@@ -16,64 +16,37 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 ✅ Per-user settings and configurations  
 ✅ Anti-Delete, Anti-Alien toggles  
 ✅ Country code whitelisting  
-✅ PM2-powered one-click deployment  
 ✅ Stop/Restart/Check status of deployed bots  
 ✅ One bot per Telegram account (v2)
 
 ---
 
-## 📁 Project Structure
-
-telegram-deployer-bot/
-├── bot.js # Main Telegram bot (Telegraf)
-├── deployer.js # PM2 deploy logic
-├── utils/ # Settings/session helpers
-├── sessions/ # Raw WhatsApp login sessions
-├── deployments/ # Deployed bot instances
-├── templates/
-│ └── linkx-v2-template/ # LinkX bot source code
-├── data/users.json # SLK wallet + referrals
-├── package.json # Unified for deployer + bot
-
-
----
-
 ## 🧑‍💻 User Flow
 
-User opens Telegram and starts the deployer bot
-
-Bot sends QR code → user scans with WhatsApp
-
-Bot confirms session → deducts 1 SLK Coin
-
-User sets preferences (AntiDelete, AntiAlien, country codes)
-
-Bot deploys user's LinkX bot using PM2
+-User opens Telegram and starts the deployer bot
+-Bot sends QR code → user scans with WhatsApp
+-Bot confirms session → deducts 1 SLK Coin
+-User sets preferences (AntiDelete, AntiAlien, country codes)
+-Bot deploys user's LinkX bot
 
 ---
 
 ## 🧾 SLK Coin 
 
-Users earn 1 SLK Coin for every 10 invites
-
-Deploying a bot costs 1 SLK Coin
-
-Each user can view their wallet & referral link
-
-Invite system uses Telegram deep links with /start <ref_id>
+-Users earn 1 SLK Coin for every 10 invites
+-Deploying a bot costs 1 SLK Coin
+-Each user can view their wallet & referral link
+-Invite system uses Telegram deep links with /start <ref_id>
 
 ---
 
 ## 🚧 v3 Preview (Coming Soon)
-Multi-bot support per user
 
-SLK Coin shop (buy with Stars or crypto)
-
-Web Dashboard (manage bots, analytics)
-
-Docker deploy option
-
-Bot logs and real-time tracking
+-Multi-bot support per user
+-SLK Coin shop (buy with Stars or crypto)
+-Web Dashboard (manage bots, analytics)
+-Docker deploy option
+-Bot logs and real-time tracking
 
 ---
 
@@ -85,7 +58,7 @@ Invite Link: Shared via Telegram bot per user
 ---
 
 ## 🧠 Credits
-Built by: Stanley
+Built with passion by: Stanley
 Team: StaNLink DevOps
 Powered by: @whiskeysockets/baileys + Telegraf
 
