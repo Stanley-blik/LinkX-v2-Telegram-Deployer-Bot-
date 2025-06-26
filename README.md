@@ -58,7 +58,7 @@ Invite Link: Shared via Telegram bot per user
 ---
 
 ## 🧠 Credits
-Built with passion by: Stanley
+Built with passion by: Stanley<br>
 Team: StaNLink DevOps
 Powered by: @whiskeysockets/baileys + Telegraf
 
