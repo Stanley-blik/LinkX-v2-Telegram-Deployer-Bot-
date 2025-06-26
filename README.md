@@ -1,8 +1,12 @@
 # 🤖 LinkX v2 — Telegram Deployer Bot
 
 **LinkX** is a fully automated WhatsApp bot deployment system powered by Telegram.  
-It allows users to scan a QR code, configure their bot, and deploy a personalized instance of **LinkX WhatsApp Bot** — all within Telegram.
+It allows users to scan a QR code, configure their bot, and deploy a personalized instance of **LinkX WhatsApp Bot** — all within Telegram.<br>
 [![Donate](https://img.shields.io/badge/Donate-008000?style=for-the-badge&logo=donate&logoColor=white)](https://your-donation-link.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/your-username)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-username)
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/your-username)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
 
 > Built by the StaNLink DevOps Team 💼
 
