@@ -23,11 +23,11 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 
 ## 🧑‍💻 User Flow
 
--User opens Telegram and starts the deployer bot
--Bot sends QR code → user scans with WhatsApp
--Bot confirms session → deducts 1 SLK Coin
--User sets preferences (AntiDelete, AntiAlien, country codes)
--Bot deploys user's LinkX bot
+<p>-User opens Telegram and starts the deployer bot</p>
+<p>-Bot sends QR code → user scans with WhatsApp</p>
+<p>-Bot confirms session → deducts 1 SLK Coin</p>
+<p>-User sets preferences (AntiDelete, AntiAlien, country codes)</p>
+<p>-Bot deploys user's LinkX bot</p>
 
 ---
 
