@@ -27,8 +27,8 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 -Bot sends QR code → user scans with WhatsApp<br>
 -Bot confirms session → deducts 1 SLK Coin<br>
 -User sets preferences (AntiDelete, AntiAlien, country codes)<br>
--Bot deploys user's LinkX bot<br>
-<a href="https://t.me/LinkXDeployerBot" target="_blank" style="display:block;width:100%;text-align:center;padding:10px;background-color:#4CAF50;color:#fff;text-decoration:none;border-radius:5px;">
+-Bot deploys user's LinkX bot<br><br>
+> Deploy Now —> <a href="https://t.me/LinkXDeployerBot" target="_blank" style="display:block;width:100%;text-align:center;padding:10px;background-color:#4CAF50;color:#fff;text-decoration:none;border-radius:5px;">
   Deploy Your LinkX Bot Now
 </a>
 
@@ -61,7 +61,7 @@ Invite Link: Shared via Telegram bot per user
 ---
 
 ## 🧠 Credits
-Built with passion by: **Stanley**<br>
+<\>Built with passion by: **Stanley**<br>
 Team: **StaNLink DevOps🤓**<br>
 Powered by: @whiskeysockets/baileys + Telegraf
 
