@@ -23,43 +23,43 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 
 ## 🧑‍💻 User Flow
 
-<p>-User opens Telegram and starts the deployer bot</p>
-<p>-Bot sends QR code → user scans with WhatsApp</p>
-<p>-Bot confirms session → deducts 1 SLK Coin</p>
-<p>-User sets preferences (AntiDelete, AntiAlien, country codes)</p>
-<p>-Bot deploys user's LinkX bot</p>
+-User opens Telegram and starts the deployer bot<br>
+-Bot sends QR code → user scans with WhatsApp<br>
+-Bot confirms session → deducts 1 SLK Coin<br>
+-User sets preferences (AntiDelete, AntiAlien, country codes)<br>
+-Bot deploys user's LinkX bot
 
 ---
 
 ## 🧾 SLK Coin 
 
--Users earn 1 SLK Coin for every 10 invites
--Deploying a bot costs 1 SLK Coin
--Each user can view their wallet & referral link
+-Users earn 1 SLK Coin for every 10 invites<br>
+-Deploying a bot costs 1 SLK Coin<br>
+-Each user can view their wallet & referral link<br>
 -Invite system uses Telegram deep links with /start <ref_id>
 
 ---
 
 ## 🚧 v3 Preview (Coming Soon)
 
--Multi-bot support per user
--SLK Coin shop (buy with Stars or crypto)
--Web Dashboard (manage bots, analytics)
--Docker deploy option
+-Multi-bot support per user<br>
+-SLK Coin shop (buy with Stars or crypto)<br>
+-Web Dashboard (manage bots, analytics)<br>
+-Docker deploy option<br>
 -Bot logs and real-time tracking
 
 ---
 
 ## 📬 Contact / Support
-Telegram Admin: @StanlinkAdmin_bot
-Support Us: edulandingpage.vercel.app
+Telegram Admin: **@StanlinkAdmin_bot**<br>
+Support Us: ***edulandingpage.vercel.app***<br>
 Invite Link: Shared via Telegram bot per user
 
 ---
 
 ## 🧠 Credits
-Built with passion by: Stanley<br>
-Team: StaNLink DevOps
+Built with passion by: **Stanley**<br>
+Team: **StaNLink DevOps🤓**<br>
 Powered by: @whiskeysockets/baileys + Telegraf
 
 > **🔥 LinkX is the DevOps version of a SaaS bot factory. We're not just building bots — we're building infrastructure.**
