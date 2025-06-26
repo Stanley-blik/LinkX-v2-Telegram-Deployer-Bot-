@@ -28,6 +28,7 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 -Bot confirms session → deducts 1 SLK Coin<br>
 -User sets preferences (AntiDelete, AntiAlien, country codes)<br>
 -Bot deploys user's LinkX bot
+<button>Deploy Your LinkX Now</button>
 
 ---
 
