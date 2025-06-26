@@ -61,7 +61,7 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 ---
 
 ## 🧠 Credits
-**<\>** Built with passion by: **Stanley**<br>
+**<\\>** Built with passion by: **Stanley**<br>
 Team: **StaNLink DevOps🤓**<br>
 Powered by: @whiskeysockets/baileys + Telegraf
 
