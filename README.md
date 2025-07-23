@@ -11,7 +11,7 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 
 ✅ Telegram bot interface for deploying LinkX bots  
 ✅ Session-based authentication via QR code  
-✅ SLK Coin system (1 SLK = 1 deployment)  
+✅ SLK Coin system (100 SLK = 1 deployment)  
 ✅ Referral/Invite reward system  
 ✅ Per-user settings and configurations  
 ✅ Anti-Delete, Anti-Alien toggles  
@@ -25,7 +25,7 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 
 -User opens Telegram and starts the deployer bot<br>
 -Bot sends QR code → user scans with WhatsApp<br>
--Bot confirms session → deducts 1 SLK Coin<br>
+-Bot confirms session → deducts 100 SLK Coin<br>
 -User sets preferences (AntiDelete, AntiAlien, country codes)<br>
 -Bot deploys user's LinkX bot<br><br>
 > Deploy Now => <a href="https://t.me/LinkXDeployerBot" target="_blank" style="display:block;width:100%;text-align:center;padding:10px;background-color:#4CAF50;color:#fff;text-decoration:none;border-radius:5px;">
@@ -36,8 +36,8 @@ It allows users to scan a QR code, configure their bot, and deploy a personalize
 
 ## 🧾 SLK Coin 
 
--Users earn 1 SLK Coin for every 10 invites<br>
--Deploying a bot costs 1 SLK Coin<br>
+-Users earn 1 SLK Coin for every 1 invites<br>
+-Deploying a bot costs 100 SLK Coins<br>
 -Each user can view their wallet & referral link<br>
 -Invite system uses Telegram deep links with /start <ref_id>
 
